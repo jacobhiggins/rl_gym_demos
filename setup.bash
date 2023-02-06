@@ -1,0 +1,1 @@
+export PYTHONPATH="/home/jacob/Projects/personal/RLGym:$PYTHONPATH"
